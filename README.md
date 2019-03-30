@@ -5,7 +5,7 @@
 
 <p>----------</p>
 
-<p>Assignments for my Udacity Programming for Data Science Nanodegree - w/Python Option (PDSND)</p>
+<p>Assignments for my Udacity Programming for Data Science Nanodegree - w/ Python (PDSND)</p>
 
 <h4>Project 1: SQL</h4>
 <p>Co</p>
