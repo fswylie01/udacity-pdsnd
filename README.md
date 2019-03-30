@@ -1,4 +1,4 @@
-<h1><a href="https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104">Programming for Data Science Nanodegree - Python Language</a></h1>
+<h1><a href="https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104">Programming for Data Science Nanodegree - Python</a></h1>
 <h4>Start Date: 03/12/2019</h4>
 
 <a href="https://www.udacity.com/course/intro-to-programming-nanodegree--nd000">View PDSND Notes - coming soon</a>
