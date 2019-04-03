@@ -3,7 +3,7 @@
 <p><strong>Start Date: </strong> 03/12/2019</p>
 <p><strong>Finish Date: </strong> In-progress</p>
 
-<p><strong>Course Description: </strong>This data science course covers the analysis of data using both SQL and Python. The Unix Shell (Bash) scripting langauage is also covered in detail along with git / github. All course notes and assignments have been included below for reference.</p>
+<p><strong>Course Description: </strong>This introductory data science course covers the analysis of data using both SQL and Python. The Unix Shell (Bash) scripting langauage is also covered in detail along with git / github. All course notes and assignments have been included below for reference.</p>
 
 <a href="https://www.udacity.com/course/intro-to-programming-nanodegree--nd000">View My PDSND Notes (all sections)</a>
 <p>----------</p>
