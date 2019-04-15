@@ -14,7 +14,18 @@
 <p>Co</p>
 <a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Lab_1/html_notes.html" target="_blank">View SQL Notes</a></br>
 
-<a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Project_1/Animal_Card_Project/card_v2.html">View SQL Project - Investigate a Relational Database</a> 
+<a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Project_1/Animal_Card_Project/card_v2.html">View SQL Project - Investigate a Relational Database</a>
+
+<p><strong>Additional Training: </strong>Unix (BASH) Shell Workshop<p>
+<a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Project_2/shell_notes/shell_home.html">View Unix (BASH) Shell Notes</a>
+<p>---</p> 
+
+<h4>Project 2: Intro to Python - A</h4>
+<p>Python coding basics from functions to style/structure.<p>
+<a href="#">View Python I Notes</a></br>
+
+<a href="#">View Adventure Game Project</a></br>
+<p>---</p>  
 
 
 
