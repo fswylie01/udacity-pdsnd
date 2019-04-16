@@ -1,4 +1,4 @@
-<h1><a href="https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104">Programming for Data Science Nanodegree</a></h1>
+<h1><a href="https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104">Programming for Data Science Nanodegree (PDSND)</a></h1>
 
 <p><strong>Start Date: </strong> 03/12/2019</p>
 <p><strong>Finish Date: </strong> In-progress</p>
