@@ -31,7 +31,7 @@
 <h4>Project 3: Version Control (VC)</h4>
 <a href="#">View VC Notes</a></br>
 
-<a href="#">View Adventure Game Project</a></br>
+<a href="#">View Project</a></br>
 <p>---</p>  
   
 <hr>
