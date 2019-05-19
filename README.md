@@ -12,7 +12,7 @@
 
 <h4>Project 1: SQL</h4>
 <p>Co</p>
-<a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Lab_1/html_notes.html" target="_blank">View SQL Notes</a></br>
+<a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Lab_1/html_notes.html" target="_blank">SQL Notes</a></br>
 
 <a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Project_1/Animal_Card_Project/card_v2.html">View SQL Project - Investigate a Relational Database</a>
 
