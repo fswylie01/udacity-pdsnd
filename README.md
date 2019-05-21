@@ -1,7 +1,7 @@
 <h1><a href="https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104">Programming for Data Science Nanodegree (PDSND)</a></h1>
 
 <p><strong>Start Date: </strong> 03/12/2019</p>
-<p><strong>Finish Date: </strong> 06/18/2019</p>
+<p><strong>Finish Date: </strong> 06/16/2019</p>
 
 <p><strong>Course Description: </strong>This introductory data science course covers the analysis of data using both SQL and Python. The Unix Shell (Bash) scripting langauage is also covered in detail along with git / github. All course notes and assignments have been included below for reference.</p>
 
