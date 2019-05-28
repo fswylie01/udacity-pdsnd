@@ -11,7 +11,7 @@
 <p>Assignments for my Udacity Programming for Data Science Nanodegree - w/ Python (PDSND)</p>
 
 <h4>Project 1: SQL</h4>
-<p>Co</p>
+<p>This section includes the following: </p>
 <a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Lab_1/html_notes.html" target="_blank">SQL Notes</a></br>
 
 <a href="https://htmlpreview.github.io/?https://github.com/fswylie01/udacity-ipnd/blob/master/Project_1/Animal_Card_Project/card_v2.html">View SQL Project - Investigate a Relational Database</a>
